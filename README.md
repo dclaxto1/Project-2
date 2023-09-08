@@ -1,7 +1,7 @@
 # Project-2
 ## All about ETL <br />
 ### Extract:
-In this project I created an ETL pipeline using Python, Pandas, and other Python dictionary methods and regular expressions to extract and transform the data. <br />
+In this project I created an ETL pipeline using Python, Pandas, and other Python dictionary methods and regular expressions to extract and transform the required data. <br />
 *Example:* contact_num = contact_info_df_copy['info'].str.extractall('(\d{4})') <br />
 <br />
 ![image](https://github.com/dclaxto1/Project-2/assets/128431134/1c0c0042-3ba5-4661-b828-eba4489c9862)
