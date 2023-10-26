@@ -12,5 +12,5 @@ After I transformed the data, I create four CSV files and used the CSV files dat
 ![ERD1](https://github.com/dclaxto1/Project-2/assets/128431134/e8aaaa49-7e10-4bfa-bc9f-2a217e7cda72)
 
 ### Load:
-Finally, I uploaded the CSV file data into a Postgres database.
+Finally, I uploaded the CSV file data into a PostgresQL database.
 ![image](https://github.com/dclaxto1/Project-2/assets/128431134/19686170-8dbc-4b64-abbf-bf0feb2d3326)
