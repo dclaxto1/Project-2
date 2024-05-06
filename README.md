@@ -1,4 +1,4 @@
-# Project-2 - ETL
+# Project-2 - ETL 
 ## All about ETL <br />
 ### Extract:
 In this project I created an ETL pipeline using Python, Pandas, and other Python dictionary methods and regular expressions to extract and transform the required data. <br />
