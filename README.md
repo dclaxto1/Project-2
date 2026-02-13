@@ -5,7 +5,7 @@ In this project I created an ETL pipeline using Python, Pandas, and other Python
 *Example:* contact_num = contact_info_df_copy['info'].str.extractall('(\d{4})') <br />  
 <br />
 ![image](https://github.com/dclaxto1/Project-2/assets/128431134/1c0c0042-3ba5-4661-b828-eba4489c9862)
-
+  
 ### Transform:  
 After I transformed the data, I create four (4) CSV files and used the CSV files data to create an ERD and a table schema. <br />
 *Example:* campaign_cleaned.to_csv("Resources/campaign.csv", index=False)
